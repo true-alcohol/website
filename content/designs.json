@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Example — *A Sublime Abortion*",
+    "src": "assets/img/example.jpg",
+    "year": "2025",
+    "published": false,
+    "_note": "Set published:true and point src at a real image in assets/img/ to show a plate. link is optional (opens externally)."
+  }
+]
