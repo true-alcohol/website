@@ -26,7 +26,7 @@ function parseFrontmatter(raw) {
 
 function getSlug() {
   const s = new URLSearchParams(location.search).get("slug") || "";
-  return s.replace(/[^a-z0-9\-_]/gi, "");   // path-safety
+  return s.replace(/[^a-z0-9\-_()]/gi, "");   // path-safety
 }
 
 async function renderArticle() {
