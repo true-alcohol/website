@@ -1,26 +1,34 @@
 [
   {
-    "slug": "the-socio-metaphysical-trans-being",
-    "title": "The *Socio-metaphysical* Trans Being",
-    "subtitle": "On being and its undressing",
-    "date": "2025-12",
-    "tags": ["Metaphysics", "Sexuality"],
+    "slug": "a-post-structural-anarchist",
+    "title": "A Post-structuralist Anarchist Conception of Normative Monogamy",
+    "subtitle": "Academic Essay",
+    "date": "2026-05",
+    "tags": ["Capstone"],
     "published": true
   },
   {
-    "slug": "am-i-esoteric-enough",
-    "title": "Am I *Esoteric* Enough?",
-    "subtitle": "A note on the secret and the social",
-    "date": "2025-12",
-    "tags": ["Esotericism"],
+    "slug": "political-theology-of-sexual-unions",
+    "title": "The Political Theology of Sexual Unions",
+    "subtitle": "",
+    "date": "2026-06",
+    "tags": [],
     "published": true
   },
   {
-    "slug": "body-(Art)-Without-Organs",
-    "title": "Body (*Art*) Without Organs",
-    "subtitle": "skdhgf",
+    "slug": "body-art-without-organs",
+    "title": "Body (Art) Without Organs",
+    "subtitle": "",
     "date": "2026-07",
-    "tags": ["Lowcow"],
-    "published": true 
+    "tags": [],
+    "published": true
+  },
+  {
+    "slug": "a-state-is-every-state",
+    "title": "A State Is Every State",
+    "subtitle": "",
+    "date": "2026-01",
+    "tags": [],
+    "published": true
   }
 ]
